@@ -1,0 +1,13 @@
+ Volume in drive D is Education
+ Volume Serial Number is DE5F-19F0
+
+ Directory of D:\Jenkins Learning\CICD\JavaProgram
+
+07/12/2020  11:15 AM    <DIR>          .
+07/12/2020  11:15 AM    <DIR>          ..
+07/12/2020  10:54 AM               915 BuildProgram.class
+07/12/2020  10:14 AM               154 BuildProgram.java
+07/12/2020  11:15 AM                 0 index.txt
+07/12/2020  11:11 AM               478 readme.txt
+               4 File(s)          1,547 bytes
+               2 Dir(s)  123,321,737,216 bytes free
